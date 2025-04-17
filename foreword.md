@@ -1,2 +1,2 @@
-to record some pratice I did.
-pratice from leetcode
+to record some practice I did.
+practice from leetcode
